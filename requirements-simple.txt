@@ -1,0 +1,15 @@
+# Core dependencies for the Lingongrova Bot
+# Install with: pip install -r requirements-simple.txt
+
+# Web automation
+playwright
+
+# Computer vision and image processing  
+opencv-python
+numpy
+Pillow
+
+# Configuration management
+python-dotenv
+
+# Note: After installing, run: playwright install chromium
